@@ -1,6 +1,6 @@
 title: "MOROKAN YAO ADAM"
-logo:img/nny.jpg
-description:"portfolio data analyse"
+logo: img/nny.jpg
+description: "portfolio data analyse"
 show_downloads: true
-theme:jekyll-theme-minimal
-lang:fr
+theme: jekyll-theme-minimal
+lang: fr
