@@ -95,7 +95,7 @@ Je transforme des données brutes en informations exploitables pour appuyer la p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-PSEUDO-GITHUB&theme=default&hide_border=true&background=FFFFFF&stroke=2E8B57&ring=2E8B57&fire=2E8B57" alt="GitHub Streak" width="48%">
 </p>
 
-> ⚠️ Remplace `MOROKAN ADAM` par ton identifiant GitHub pour activer ces statistiques.
+> ⚠️ Remplace `MOROKAN-CI` par ton identifiant GitHub pour activer ces statistiques.
 
 ---
 
