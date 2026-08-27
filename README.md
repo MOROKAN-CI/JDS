@@ -1,3 +1,18 @@
+# [MOROKAN YAO ADAM](https://morokan-ci.github.io/JDS/)
+
+<p align="center">
+  <img src="https://morokan-ci.github.io/JDS/PHOTO.jpg" alt="Morokan Yao Adam" width="180" style="border-radius:50%;">
+</p>
+
+portfolio data analyse
+
+[View the Project on GitHub MOROKAN-CI/JDS](https://github.com/MOROKAN-CI/JDS)
+
+- [Download **ZIP File**](https://github.com/MOROKAN-CI/JDS/zipball/main)
+- [Download **TAR Ball**](https://github.com/MOROKAN-CI/JDS/tarball/main)
+- [View On **GitHub**](https://github.com/MOROKAN-CI/JDS)
+
+---
 <h1 align="center">👋 Salut, je suis Morokan Yao Adam</h1>
 <h3 align="center">🎯 Data Analyste | Économiste de la Santé | Passionné de Data Science</h3>
 
