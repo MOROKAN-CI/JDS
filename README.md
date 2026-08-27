@@ -89,15 +89,10 @@ Je transforme des données brutes en informations exploitables pour appuyer la p
 ---
 
 ## 📊 Statistiques GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JDS
-    GITHUB&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON-PSEUDO-GITHUB&theme=default&hide_border=true&background=FFFFFF&stroke=2E8B57&ring=2E8B57&fire=2E8B57" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOROKAN-CI&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=MOROKAN-CI&theme=default&hide_border=true&background=FFFFFF&stroke=2E8B57&ring=2E8B57&fire=2E8B57" alt="GitHub Streak" width="48%">
 </p>
-
-> ⚠️ Remplace `JDS` par ton identifiant GitHub pour activer ces statistiques.
-
 ---
 
 ## 🌐 Langues
